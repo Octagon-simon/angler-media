@@ -3,6 +3,17 @@
     <channel>
         <title>Angler</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 17 Sep 2026 12:35:05 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler-1.0.1.dmg" length="2957338" type="application/octet-stream" sparkle:edSignature="PegfPQVDBTUOFGk/RhFd2Y6nswT2b3H8olm3LS8IZAuSZ27obYEtcoa/Tilz2Pqzv0v4mFWetgFJ3g/K5lBtDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler2-1.delta" sparkle:deltaFrom="1" length="107150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZnR1L437HosjLRLyqMW9oM1mEPPJaREdRVtamQbT47DHXVoIy6SnPoES4cFqXQ0eGAGacmouQKatVCThRrkAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 17 Sep 2026 05:19:39 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
