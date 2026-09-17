@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler-1.0.2.dmg" length="2954760" type="application/octet-stream" sparkle:edSignature="XcpUO0pZB5A2e+nPCPhDlM9aRKIkR7mU5oJimkj1gHBKYx3Q+e6g80Cl2TJQld6yPfXmnFjNJzURoJJBjJ73DQ=="/>
+            <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler-1.0.2.dmg" length="2956505" type="application/octet-stream" sparkle:edSignature="RXaqvp8PFUcv+2WT1daAdD2hoarD0K4uV9otCFII0VfY4HORr5xMRb/zkYFaSryxutThoBVArxyyynR/IlhaAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler3-2.delta" sparkle:deltaFrom="2" length="82670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0v+1J8mwV4wjUwAwwkMIQZrJ0eC0TEyQVsdcjfvnxMKpJFfKfA/pyvHvV2bMd4n0hGN7UP2xIK5IrQYeCyqQBw=="/>
                 <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler3-1.delta" sparkle:deltaFrom="1" length="100954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0noAGGS5BwV+pS3FcJfWbknKjilH9ofXhnLjjte9TF9Se3028rP+qCk/3pKt49QJRmiXSpz9ZYNClS2T+3N1Ag=="/>
