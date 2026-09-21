@@ -3,6 +3,20 @@
     <channel>
         <title>Angler</title>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Mon, 21 Sep 2026 07:47:29 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler-1.0.4.dmg" length="2966375" type="application/octet-stream" sparkle:edSignature="SCbXxsE+aXI3v4vnH2BCbR+sUu6S6jFO8efhc4Ng+YXg6czh4pEUwOoxeaZTTbPtmoFysRNP2JnUsWXwlHgWBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler5-4.delta" sparkle:deltaFrom="4" length="104030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Grg7wBVHDJwvtL/eoRfLRIuFn0f3y2jZcGPNjdrxxFACulxyUs2Ym2GdQshbCa7UNrihur2X+mfRFtmfW+A1Bw=="/>
+                <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler5-3.delta" sparkle:deltaFrom="3" length="112634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hUyHwKPnELafYCks1demRdq5dk7j7S9SzFF8s+5BB32zIdE3eLZYKjJuUA3DYrMywbPZ8LBJhGN8ySphYS8VBg=="/>
+                <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler5-2.delta" sparkle:deltaFrom="2" length="131298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0K7/AjDf9GD3aLeh9d30iBdntDwbe3EEV9oSxhioxoRDj3HzX4RbHGUFncPRWwIH1NyjhEDlxokCvTOz629dDA=="/>
+                <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler5-1.delta" sparkle:deltaFrom="1" length="139162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7lHz2HOn/EN1SLQs7fPtoaXElLPbBZ2ytRKBQBC9Pa4cRa7Wy276q65dd9km4s/+sPtaCdRZ64Uxd4klKxVzCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Sat, 19 Sep 2026 12:45:30 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler3-2.delta" sparkle:deltaFrom="2" length="82670" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0v+1J8mwV4wjUwAwwkMIQZrJ0eC0TEyQVsdcjfvnxMKpJFfKfA/pyvHvV2bMd4n0hGN7UP2xIK5IrQYeCyqQBw=="/>
                 <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler3-1.delta" sparkle:deltaFrom="1" length="100954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0noAGGS5BwV+pS3FcJfWbknKjilH9ofXhnLjjte9TF9Se3028rP+qCk/3pKt49QJRmiXSpz9ZYNClS2T+3N1Ag=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 17 Sep 2026 12:35:05 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler-1.0.1.dmg" length="2957338" type="application/octet-stream" sparkle:edSignature="PegfPQVDBTUOFGk/RhFd2Y6nswT2b3H8olm3LS8IZAuSZ27obYEtcoa/Tilz2Pqzv0v4mFWetgFJ3g/K5lBtDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://octagon-simon.github.io/angler-media/downloads/Angler2-1.delta" sparkle:deltaFrom="1" length="107150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="979056" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7ZnR1L437HosjLRLyqMW9oM1mEPPJaREdRVtamQbT47DHXVoIy6SnPoES4cFqXQ0eGAGacmouQKatVCThRrkAg=="/>
             </sparkle:deltas>
         </item>
     </channel>
